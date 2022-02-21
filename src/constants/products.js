@@ -47,7 +47,7 @@ const products = [
   },
   {
     id: 4,
-    name: "Xiaomi Note 10",
+    name: "Xiaomi Note 11 5G",
     price: "10005000",
     img: img3,
     info: {
